@@ -42,17 +42,17 @@ Qué hice: Busqué a Vercel en .
 
 El Tesoro: Descubrí que utilizan Next.js (obviamente), pero también herramientas de infraestructura como AWS y Google Cloud.
 
-3. Wappalyzer: Inspección en Tiempo Real 🔍
+3. Wappalyzer: Inspección en Tiempo Real
 Qué hice: Instalé la extensión y navegué por vercel.com.
 
 El Tesoro: La extensión detectó inmediatamente React, Next.js y el uso de Google Analytics y Vercel Speed Insights.
 
-4. "Engineering Blogs" 📖
+4. "Engineering Blogs"
 Qué hice: Busqué en Google Vercel Engineering Blog.
 
 El Tesoro: Leí sobre cómo han optimizado su motor de empaquetado usando Turbopack (escrito en Rust) para reemplazar a Webpack.
 
-5. Búsqueda Avanzada en GitHub 📂
+5. Búsqueda Avanzada en GitHub
 Qué hice: Revisé el repositorio oficial de  manejado por Vercel.
 
 El Tesoro: Al abrir el package.json, vi las dependencias exactas: usan ESLint para calidad y TypeScript como lenguaje base.
