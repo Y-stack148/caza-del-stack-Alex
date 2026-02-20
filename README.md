@@ -35,16 +35,17 @@ El stack de Vercel es el desarrollo web actual:
 
 ## **Manual de Investigación**
 * **Ofertas de Empleo**
-    Visité el portal y analicé la vacante de Ejecutivo de cuentas, Base de Instalaciones Comerciales
-    <img width="1648" height="864" alt="image" src="https://github.com/user-attachments/assets/bf34ff3d-4ace-43ca-8468-51996d38dd63" />
+  Visité el portal y analicé la vacante de Ejecutivo de cuentas, Base de Instalaciones Comerciales
+  <img width="1648" height="864" alt="image" src="https://github.com/user-attachments/assets/bf34ff3d-4ace-43ca-8468-51996d38dd63" />
 
 * **StackShare**
-   <img width="1023" height="461" alt="image" src="https://github.com/user-attachments/assets/b493383a-df02-4551-b127-b645d93dd3f3" />
+  <img width="1023" height="461" alt="image" src="https://github.com/user-attachments/assets/b493383a-df02-4551-b127-b645d93dd3f3" />
 
 * **Wappalyzer: Inspección en Tiempo Real**
 * Instalé la extensión y navegué por vercel.com.
-    <img width="632" height="620" alt="image" src="https://github.com/user-attachments/assets/db32e619-0fe0-409a-9fc5-87cccf6941cd" />
-    <img width="611" height="538" alt="image" src="https://github.com/user-attachments/assets/0afe4943-89a0-4eb0-9157-dd909c2fa390" />
+  
+  <img width="632" height="620" alt="image" src="https://github.com/user-attachments/assets/db32e619-0fe0-409a-9fc5-87cccf6941cd" />
+  <img width="611" height="538" alt="image" src="https://github.com/user-attachments/assets/0afe4943-89a0-4eb0-9157-dd909c2fa390" />
 
 * **Engineering Blogs**
 Busqué en Google, Vercel Engineering Blog.
