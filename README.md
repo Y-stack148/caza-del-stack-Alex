@@ -56,4 +56,24 @@ Revisé el repositorio oficial de Vercel.
 
 Al abrir el package.json, vi que gestionan su monorepo con pnpm y Turbo para maximizar la velocidad. Además, mantienen la calidad del código   mediante una configuración estricta de ESLint y TypeScript, prohibiendo incluso el uso de funciones obsoletas como .substr() a través de       reglas personalizadas.
 
-**¿Qué es Biome y para qué sirve en el desarrollo web?**
+**¿Qué es rudderstack y para qué sirve en el desarrollo web?**
+Es una infraestructura de datos (CDP) que funciona como un enrutador central. Recopila datos de eventos de tus usuarios y los envía a múltiples destinos (herramientas de análisis, marketing o bases de datos).
+
+* **Optimización de carga:** En lugar de instalar 10 scripts (SDKs) que ralentizan tu web, solo instalas el de RudderStack. Él reparte la información por el lado del servidor.
+
+* **Propiedad de los datos:** Envía los datos directamente a tu propia base de datos (Data Warehouse), dándote control total y facilitando el cumplimiento de leyes de privacidad (GDPR).
+
+* **Transformación:** Puedes limpiar o modificar los datos (con JavaScript) mientras viajan, antes de que lleguen a su destino.
+
+* **Sincronización:** Conecta tu web con herramientas como Google Analytics, Mixpanel, Slack, Salesforce y BigQuery de forma simultánea.
+
+**¿Qué es  Radix UI y para qué sirve en el desarrollo web?**
+Es un conjunto de piezas primitivas (botones, modales, menús) que tienen toda la lógica de funcionamiento y accesibilidad integrada, pero vienen con cero diseño.
+
+* **Accesibilidad (WAI-ARIA) garantizada:** Cumple con todos los estándares para lectores de pantalla y navegación por teclado sin que tú tengas que programarlo.
+
+* **Libertad total de diseño:** Como no trae estilos predefinidos, no tienes que "pelear" contra un diseño base (como pasa con Material UI o Bootstrap). Puedes usar Tailwind, CSS Modules o lo que prefieras.
+
+* **Componentes complejos simplificados:** Crear un Dropdown o un Dialog desde cero es difícil y propenso a errores; Radix te da la estructura lista para usar.
+
+* **Modularidad:** Solo instalas lo que necesitas. Si solo quieres un Popver, instalas solo ese paquete.
