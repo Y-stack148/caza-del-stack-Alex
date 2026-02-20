@@ -47,12 +47,12 @@ El stack de Vercel es el desarrollo web actual:
   <img width="632" height="620" alt="image" src="https://github.com/user-attachments/assets/db32e619-0fe0-409a-9fc5-87cccf6941cd" />
   <img width="611" height="538" alt="image" src="https://github.com/user-attachments/assets/0afe4943-89a0-4eb0-9157-dd909c2fa390" />
 
-* **Engineering Blogs**
+* **Engineering Blogs:**
 Busqué en Google, Vercel Engineering Blog.
 
 Implementaron React Server Components y Partial Prerendering (PPR) para eliminar los "spinners" de carga. Lograron que la barra de             búsqueda    mantenga el foco y el estado al navegar entre páginas mediante una sincronización inteligente con la URL, reduciendo el            tiempo de respuesta    en móvil en un 70%.
   
-* **Búsqueda Avanzada en GitHub**
+* **Búsqueda Avanzada en GitHub:**
 Revisé el repositorio oficial de Vercel.
 
 Al abrir el package.json, vi que gestionan su monorepo con pnpm y Turbo para maximizar la velocidad. Además, mantienen la calidad del código   mediante una configuración estricta de ESLint y TypeScript, prohibiendo incluso el uso de funciones obsoletas como .substr() a través de       reglas personalizadas.
