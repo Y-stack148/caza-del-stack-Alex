@@ -33,7 +33,7 @@ El stack de Vercel es el desarrollo web actual:
     * **Bun**: Han comenzado a integrar este runtime moderno por ser más rápido que Node.js en ciertas tareas de servidor.
     * **Turbopack**: Su motor de empaquetado escrito en **Rust**.
 
-**Manual de Investigación**
+## **Manual de Investigación**
 * **Ofertas de Empleo**
     Visité el portal y analicé la vacante de Ejecutivo de cuentas, Base de Instalaciones Comerciales
     <img width="1648" height="864" alt="image" src="https://github.com/user-attachments/assets/bf34ff3d-4ace-43ca-8468-51996d38dd63" />
