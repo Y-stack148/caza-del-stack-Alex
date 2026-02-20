@@ -39,7 +39,7 @@ El stack de Vercel es el desarrollo web actual:
     <img width="1648" height="864" alt="image" src="https://github.com/user-attachments/assets/bf34ff3d-4ace-43ca-8468-51996d38dd63" />
 
 * **StackShare**
-   **Busqué a Vercel**
+   <img width="1023" height="461" alt="image" src="https://github.com/user-attachments/assets/b493383a-df02-4551-b127-b645d93dd3f3" />
 
 * **Wappalyzer: Inspección en Tiempo Real**
 * Instalé la extensión y navegué por vercel.com.
@@ -47,12 +47,13 @@ El stack de Vercel es el desarrollo web actual:
     <img width="611" height="538" alt="image" src="https://github.com/user-attachments/assets/0afe4943-89a0-4eb0-9157-dd909c2fa390" />
 
 * **Engineering Blogs**
-  
-* Busqué en Google, Vercel Engineering Blog.
+Busqué en Google, Vercel Engineering Blog.
 
 Implementaron React Server Components y Partial Prerendering (PPR) para eliminar los "spinners" de carga. Lograron que la barra de             búsqueda    mantenga el foco y el estado al navegar entre páginas mediante una sincronización inteligente con la URL, reduciendo el            tiempo de respuesta    en móvil en un 70%.
   
 * **Búsqueda Avanzada en GitHub**
-* Revisé el repositorio oficial de Vercel.
+Revisé el repositorio oficial de Vercel.
 
- Al abrir el package.json, vi que gestionan su monorepo con pnpm y Turbo para maximizar la velocidad. Además, mantienen la calidad del código   mediante una configuración estricta de ESLint y TypeScript, prohibiendo incluso el uso de funciones obsoletas como .substr() a través de       reglas personalizadas.
+Al abrir el package.json, vi que gestionan su monorepo con pnpm y Turbo para maximizar la velocidad. Además, mantienen la calidad del código   mediante una configuración estricta de ESLint y TypeScript, prohibiendo incluso el uso de funciones obsoletas como .substr() a través de       reglas personalizadas.
+
+**¿Qué es Biome y para qué sirve en el desarrollo web?**
